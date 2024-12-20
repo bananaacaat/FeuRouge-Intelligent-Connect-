@@ -59,9 +59,6 @@ This project combines the power of IoT, embedded systems, and automation to crea
   - Manually control the traffic lights (if needed).
 - The system will log traffic data for analysis.
 
-## Schematic
-![Circuit Diagram](path/to/your/image.png)  
-*(Replace with your actual circuit diagram)*
 
 ## Future Improvements
 - Integration with city-wide traffic systems for better coordination.
